@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(24, 232, 232);
+}
+
+h1{
+    color:coral;
+    text-align:center;
+    font-size:80px;
+    font-weight:bolder;
+    font-style:oblique;
+    text-decoration:underline;
+
+}
+
+li{
+    color:darkgoldenrod;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
